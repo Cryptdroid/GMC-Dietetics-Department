@@ -1,5 +1,4 @@
 # GMC-Dietetics-Department
-Here's a well-structured README file for your project that you can paste into GitHub:
 
 ---
 
