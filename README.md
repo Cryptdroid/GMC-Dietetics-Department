@@ -4,6 +4,8 @@
 
 # **Patient Data Tally Checker**
 
+#Access Link: https://gmc-dietetics.streamlit.app/
+
 ## **Overview**
 This Streamlit-based application helps healthcare facilities to verify patient data for consistency in tally calculations. The app allows users to upload an Excel file containing patient data, check if the tally is correct based on the provided formula, and also perform additional calculations to ensure data accuracy. A built-in password authentication system ensures the security of the app, making it suitable for handling sensitive medical data.
 
