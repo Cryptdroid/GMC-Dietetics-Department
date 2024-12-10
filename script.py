@@ -1,9 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-import streamlit as st
-import pandas as pd
-
 def authenticate():
     st.title("Secure Login")
     password = st.text_input("Enter the password:", type="password")
